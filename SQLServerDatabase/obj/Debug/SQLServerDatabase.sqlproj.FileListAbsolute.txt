@@ -1,0 +1,6 @@
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\bin\Debug\SQLServerDatabase.dacpac
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\bin\Debug\SQLServerDatabase.dll
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\bin\Debug\SQLServerDatabase.pdb
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\obj\Debug\SQLServerDatabase.sqlprojAssemblyReference.cache
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\obj\Debug\SQLServerDatabase.dll
+C:\Users\SQLDBA\source\repos\SQLServerDatabase_sol\SQLServerDatabase\obj\Debug\SQLServerDatabase.pdb
